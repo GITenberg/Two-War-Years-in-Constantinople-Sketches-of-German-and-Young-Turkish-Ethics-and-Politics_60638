@@ -1,0 +1,33 @@
+_repo: Two-War-Years-in-Constantinople-Sketches-of-German-and-Young-Turkish-Ethics-and-Politics_60638
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Allen, E., writer on Ravello, Italy, translator
+    gutenberg_agent_id: '51023'
+    url: http://www.gutenberg.org/2009/agents/51023
+creator:
+  author:
+    agent_name: Stürmer, Harry
+    aliases:
+    - Sturmer, Harry
+    - Stuermer, Harry
+    gutenberg_agent_id: '51066'
+    url: http://www.gutenberg.org/2009/agents/51066
+description: ''
+gutenberg_issued: '2019-11-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60638'
+  lccn: '18001395'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Turkey'
+- !lcc 'D501'
+- GITenberg
+title: 'Two War Years in Constantinople
+
+  Sketches of German and Young Turkish Ethics and Politics'
+url: http://www.gutenberg.org/ebooks/60638
